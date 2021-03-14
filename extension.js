@@ -30,7 +30,7 @@ var AdBlocker = class AdBlocker {
         this.button.set_child(this.music_icon);
         this.button.connect('button-press-event', this.toggle.bind(this));
 
-        this.enable();
+        // this.enable();
     }
 
     reloadPlayer() {
