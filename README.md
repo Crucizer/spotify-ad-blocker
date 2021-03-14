@@ -1,6 +1,6 @@
 # GNOME shell spotify ad blocker
 
-This is a gnome shell extension to mute ads from the spotify linux desktop app.
+This is a forck of gnome shell extension to mute ads from the spotify linux desktop app just without the icon on the top bar
 
 ## How to install:
 
